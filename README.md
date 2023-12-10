@@ -1,3 +1,10 @@
+# Recipe Tracking app project
+This project was implemented for Recipe Tracking app from Chegg Skills, Front-End Web Development Certificate.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

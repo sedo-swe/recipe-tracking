@@ -4,7 +4,7 @@ This project was implemented for Recipe Tracking app from Chegg Skills, Front-En
 
 
 
-
+---------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
